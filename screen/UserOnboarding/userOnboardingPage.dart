@@ -1,8 +1,8 @@
-import 'package:dermacare_ai/screen/UserOnboarding/loginPage.dart';
-import 'package:dermacare_ai/const/colorConst.dart';
-import 'package:dermacare_ai/screen/UserOnboarding/loginPage.dart';
-import 'package:dermacare_ai/screen/UserOnboarding/registerPage.dart';
-import 'package:dermacare_ai/widget/textWidgets.dart';
+import 'package:my_project/screen/UserOnboarding/loginPage.dart';
+import 'package:my_project/const/colorConst.dart';
+import 'package:my_project/screen/UserOnboarding/loginPage.dart';
+import 'package:my_project/screen/UserOnboarding/registerPage.dart';
+import 'package:my_project/widget/textWidgets.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 
@@ -23,7 +23,7 @@ class _UserOnboardingPageState extends State<UserOnboardingPage> {
         child: Scaffold(
           appBar: AppBar(
             title: TitleText(
-              text: "dermacare_ai",
+              text: "my_project",
               color: ColorsConst.white,
               fontSize: 32,
               fontWeight: FontWeight.bold,

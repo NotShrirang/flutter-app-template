@@ -1,7 +1,7 @@
-import 'package:dermacare_ai/screen/HomePage/homePage.dart';
-import 'package:dermacare_ai/screen/UserOnboarding/loginPage.dart';
-import 'package:dermacare_ai/screen/UserOnboarding/userOnboardingPage.dart';
-import 'package:dermacare_ai/utils/root.dart';
+import 'package:my_project/screen/HomePage/homePage.dart';
+import 'package:my_project/screen/UserOnboarding/loginPage.dart';
+import 'package:my_project/screen/UserOnboarding/userOnboardingPage.dart';
+import 'package:my_project/utils/root.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';

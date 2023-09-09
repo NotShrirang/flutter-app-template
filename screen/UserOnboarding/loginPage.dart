@@ -1,11 +1,11 @@
-import 'package:dermacare_ai/controller/signin.dart';
-import 'package:dermacare_ai/widget/containerWidgets.dart';
+import 'package:my_project/controller/signin.dart';
+import 'package:my_project/widget/containerWidgets.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:dermacare_ai/const/colorConst.dart';
-import 'package:dermacare_ai/const/iconConst.dart';
-import 'package:dermacare_ai/widget/textWidgets.dart';
-import 'package:dermacare_ai/widget/textfieldWidgets.dart';
+import 'package:my_project/const/colorConst.dart';
+import 'package:my_project/const/iconConst.dart';
+import 'package:my_project/widget/textWidgets.dart';
+import 'package:my_project/widget/textfieldWidgets.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';

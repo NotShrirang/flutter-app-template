@@ -1,12 +1,12 @@
 // ignore_for_file: file_names
 import 'dart:convert';
 
-import 'package:dermacare_ai/const/apiConst.dart';
-import 'package:dermacare_ai/const/colorConst.dart';
-import 'package:dermacare_ai/controller/signin.dart';
-import 'package:dermacare_ai/widget/containerWidgets.dart';
-import 'package:dermacare_ai/widget/textWidgets.dart';
-import 'package:dermacare_ai/widget/textfieldWidgets.dart';
+import 'package:my_project/const/apiConst.dart';
+import 'package:my_project/const/colorConst.dart';
+import 'package:my_project/controller/signin.dart';
+import 'package:my_project/widget/containerWidgets.dart';
+import 'package:my_project/widget/textWidgets.dart';
+import 'package:my_project/widget/textfieldWidgets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -187,7 +187,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
 
     if (response.statusCode == 200) {
       Get.snackbar("Success",
-          "Welcome to dermacare_ai, ${usernameController.text.trim()}!",
+          "Welcome to my_project, ${usernameController.text.trim()}!",
           snackPosition: SnackPosition.TOP,
           colorText: HexColor(ColorsConst.white));
 

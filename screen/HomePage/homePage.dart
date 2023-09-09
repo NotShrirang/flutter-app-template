@@ -1,8 +1,8 @@
 // ignore_for_file: file_names
 
-import 'package:dermacare_ai/const/colorConst.dart';
-import 'package:dermacare_ai/widget/containerWidgets.dart';
-import 'package:dermacare_ai/widget/textWidgets.dart';
+import 'package:my_project/const/colorConst.dart';
+import 'package:my_project/widget/containerWidgets.dart';
+import 'package:my_project/widget/textWidgets.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {

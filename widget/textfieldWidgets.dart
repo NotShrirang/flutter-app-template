@@ -1,6 +1,6 @@
 // ignore_for_file: file_names
 
-import 'package:dermacare_ai/const/colorConst.dart';
+import 'package:my_project/const/colorConst.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 

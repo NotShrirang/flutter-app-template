@@ -1,6 +1,6 @@
-import 'package:dermacare_ai/controller/getStorage.dart';
-import 'package:dermacare_ai/screen/HomePage/homePage.dart';
-import 'package:dermacare_ai/screen/HomePage/welcomePage.dart';
+import 'package:my_project/controller/getStorage.dart';
+import 'package:my_project/screen/HomePage/homePage.dart';
+import 'package:my_project/screen/HomePage/welcomePage.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

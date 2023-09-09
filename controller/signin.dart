@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:dermacare_ai/const/apiconst.dart';
-import 'package:dermacare_ai/const/colorconst.dart';
-import 'package:dermacare_ai/controller/getStorage.dart';
-import 'package:dermacare_ai/screen/HomePage/homePage.dart';
-import 'package:dermacare_ai/screen/HomePage/welcomePage.dart';
+import 'package:my_project/const/apiconst.dart';
+import 'package:my_project/const/colorconst.dart';
+import 'package:my_project/controller/getStorage.dart';
+import 'package:my_project/screen/HomePage/homePage.dart';
+import 'package:my_project/screen/HomePage/welcomePage.dart';
 import 'package:get/get.dart';
 import 'package:hexcolor/hexcolor.dart';
 

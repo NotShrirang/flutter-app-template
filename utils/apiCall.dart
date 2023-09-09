@@ -1,7 +1,7 @@
 // ignore_for_file: file_names
 import 'dart:convert';
-import 'package:dermacare_ai/const/apiconst.dart';
-import 'package:dermacare_ai/controller/getStorage.dart';
+import 'package:my_project/const/apiconst.dart';
+import 'package:my_project/controller/getStorage.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:jwt_decoder/jwt_decoder.dart';
