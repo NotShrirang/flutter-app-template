@@ -12,7 +12,7 @@ class WelcomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return BackgroundColorDC(
       body: Center(
-          child: TitleText(text: 'DermaCare AI', color: ColorsConst.white)),
+          child: TitleText(text: 'My Project', color: ColorsConst.white)),
     );
   }
 }

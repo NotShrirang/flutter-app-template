@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
       ),
       home: const Root(),
       routes: {
-        '/home': (context) => const HomePage(title: 'DevFinder'),
+        '/home': (context) => const HomePage(title: 'My Project'),
         '/login': (context) => const LoginPage(),
         '/userOnboarding': (context) => const UserOnboardingPage(),
       },

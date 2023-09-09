@@ -15,7 +15,7 @@ class Root extends StatelessWidget {
       builder: (_) {
         return _.isLogin == true
             ? const HomePage(
-                title: 'DermaCare AI',
+                title: 'My Project',
               )
             : const WelcomePage();
       },
